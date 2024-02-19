@@ -1,6 +1,7 @@
 
 # Data Engineering Assignment for Eastvantage
 
+The video explanation of the project can be found here: https://www.loom.com/share/c094735d511d479c8295bdbb43ff5ddf?sid=85a093d1-0719-4b58-a6b4-896ce04a4964
 
 # Goal
 
