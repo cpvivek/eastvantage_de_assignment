@@ -16,7 +16,9 @@ looking at total quantities purchased.
 They then created a database with these business rules:
 
 • A sales receipt can have multiple items in an order.
+
 • For every order, the clerk records all quantities for all items, including items not
 bought (which they denote with quantity=NULL).
+
 • Each customer can do multiple sales transactions, and has his/her age stored in a
 database
