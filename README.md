@@ -1,5 +1,5 @@
-# eastvantage_de_assignment
-Data Engineering Assignment for Eastvantage
+
+# Data Engineering Assignment for Eastvantage
 
 
 # Goal
